@@ -1,0 +1,61 @@
+.fixed-top-link{
+    position: fixed;
+    top : 0;
+    right: 0;
+    padding: 10px;
+    background-color: green;
+    color: white;
+
+}
+
+.link {
+    position :relative;
+    height: 50px;
+
+}
+.link a{
+    position: relative
+    top = 0;
+    right : 0;
+
+}
+.link a:first-child{
+    right : 120 px
+}
+
+.rounded-image {
+    border-radius: 20px;
+}
+
+.images-text {
+    position: absolute;
+    
+    top: 90px;   
+    left: 65%; 
+
+    font-size: 16px;
+    color: #4285F4;
+}
+.Query > input 
+{
+                height: 25px;
+                margin-bottom:20px;
+            }
+            .form-row {
+                display: flex;
+                align-items: center;
+                padding-left: 50px;
+                margin-bottom: 20px;
+            }
+            .form-row label {
+                width: 500 px;
+                margin-right:  10px;
+            }
+.images-text {
+    font-size: 16px;
+    margin-top: -15px; 
+    color: #4285F4; 
+    letter-spacing: 0.2em; 
+    text-align: center;
+}
+
